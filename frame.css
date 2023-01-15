@@ -237,12 +237,12 @@
   text-decoration: none;
 }
 .frame-header {
-  top: 1px;
+  top: 46px;
   left: 100px;
   width: 518px;
   display: flex;
   position: absolute;
-  align-items: left;
+  align-items: center;
   border-color: transparent;
 }
 .frame-text20 {
@@ -261,13 +261,11 @@
   text-decoration: none;
 }
 .frame-nav {
-  display: grid;
+  display: flex;
   position: relative;
   align-items: flex-start;
   border-color: transparent;
-  left: -206px;
-  top: 69px;
-  text-align-last: left;
+  left: -28px;
 }
 .frame-text22 {
   color: rgba(255, 255, 255, 0.44999998807907104);
