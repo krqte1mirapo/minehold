@@ -115,11 +115,13 @@
   display: flex;
   padding: 16px 42px;
   position: absolute;
+  color: white;
   align-items: center;
   border-color: transparent;
   border-radius: 4px;
   justify-content: center;
   background-image: linear-gradient(150deg, rgb(243 159 87) 0%, rgb(133 89 25) 100%);
+  cursor: pointer;
 }
 .frame-text02 {
   color: rgba(238, 230, 255, 1);
