@@ -164,8 +164,8 @@
     text-decoration: none;
 }
 .frame-header {
-    top: 46px;
-    left: 79px;
+    top: 25px;
+    left: 90px;
     width: 518px;
     display: flex;
     position: absolute;
@@ -200,7 +200,7 @@
     text-decoration: none;
 }
 .frame-buttonstartbutton {
-    top: 539px;
+    top: 609px;
     left: 40px;
     width: 284px;
     height: 63px;
@@ -214,6 +214,15 @@
     border-radius: 4px;
     justify-content: center;
     background-image: linear-gradient(150deg, rgb(243 159 87) 0%, rgb(133 89 25) 100%);
+}
+.trademc-buyform * {
+    box-sizing: inherit;
+    top: -28px;
+    height: 115px;
+    bottom: 119px;
+    width: 275px;
+    margin-top: 15px;
+    position: inherit;
 }
 /* Custom, iPhone Retina */
 @media only screen and (max-width: 320px) {
